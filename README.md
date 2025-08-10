@@ -23,7 +23,6 @@ GCStudio（X：@GCStudio2024）
 2. 画像をアップロード
 3. ALTテキストの生成を依頼
 
-詳しくは、こちらのウェブサイトをご覧ください：https://visionassist-alt.prot-news.com
 
 ## ファイル構成
 
