@@ -13,8 +13,6 @@ https://vision-assist-alt-node-js.vercel.app/
   GPTsのプロンプトを記載しています。自由に二次利用可能です。  
   開発者向けドキュメントはこちら：  
   https://vision-assist-alt-node-js.vercel.app/developers
-  - 参照: Commit 4460749 の `visionassist-alt.md` は以下（v2.0-beta 初期）  
-    https://github.com/Gashin0601/VisionAssistALT-GPTs/blob/4460749/visionassist-alt.md
 
 ## バージョン
 
@@ -27,7 +25,8 @@ https://vision-assist-alt-node-js.vercel.app/
   - 具体的名称（場所・施設名など）は直接表現
   - 数式はLaTeXを使わず文章で記述
   - 日付・時刻は日本語表記に正規化（例: 7/21 10:30 → 7月21日 10時30分）
-  -　M/D H:MM　を M月D日H時MM分と表記
+  - M/D H:MM　を M月D日H時MM分と表記
+  - クレジット表記を「※このALTの作成には、GCStudio（X：@GCStudio2024）によって提供されるGPTs（VisionAssist ALT）を利用しています。本ALTに関するご質問や問題がある場合は、当スタジオまでお問い合わせください。」→「© VisionAssistALT — Created by GC Studio」に変更。
 
   プロンプト；
   https://github.com/Gashin0601/VisionAssistALT-GPTs/blob/v2.0-beta/visionassist-alt.md
