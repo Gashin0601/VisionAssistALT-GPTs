@@ -30,10 +30,10 @@ https://vision-assist-alt-node-js.vercel.app/
   -　M/D H:MM　を M月D日H時MM分と表記
 
   プロンプト；
+  https://github.com/Gashin0601/VisionAssistALT-GPTs/blob/v2.0-beta/visionassist-alt.md
   
-
 - **Ver.1.0**  
-  https://github.com/Gashin0601/VisionAssistALT-GPTs/blob/d1fd87f6d830375385a48d649c013383abfa0e65/visionassist-alt.md
+  https://github.com/Gashin0601/VisionAssistALT-GPTs/blob/v1.0/visionassist-alt.md
 
 ## ライセンス
 
